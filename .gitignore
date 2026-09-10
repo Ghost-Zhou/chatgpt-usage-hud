@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.playwright-cli/
+*.log
+*.jsonl
+sessions/
+archived_sessions/
+dist/
+.release/
+.local-context/
+PROJECT_CONTEXT.md
